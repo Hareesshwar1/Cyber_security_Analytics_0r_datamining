@@ -10,4 +10,4 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.metrics import accuracy_score, precision_score, confusion_matrix, recall_score, f1_score.
+from sklearn.metrics import accuracy_score, precision_score, confusion_matrix, recall_score, f1_score..
